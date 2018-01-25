@@ -45,7 +45,7 @@ $(document).ready(function(){
 
         $('#watch').countDown({
             targetDate: {
-                'day': 		25,
+                'day': 		31,
                 'month': 	1,
                 'year': 	2018,
                 'hour': 	18,
