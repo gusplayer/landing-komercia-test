@@ -45,10 +45,10 @@ $(document).ready(function(){
 
         $('#watch').countDown({
             targetDate: {
-                'day': 		31,
-                'month': 	1,
+                'day': 		10,
+                'month': 	2,
                 'year': 	2018,
-                'hour': 	18,
+                'hour': 	1,
                 'min': 		0,
                 'sec': 		0
             },
